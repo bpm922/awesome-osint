@@ -1171,6 +1171,7 @@ algorithms, knowledgebase and AI technology.
 * [Inspire Geoportal](https://inspire-geoportal.ec.europa.eu)
 * [Instant Google Street View](https://www.instantstreetview.com)
 * [InstantAtlas](https://www.instantatlas.com)
+* [International Conflict Studies (ICS) 3D Globe](https://internationalconflictstudies.com/live/)  - Real-time 3D interactive conflict monitoring globe tracking subsea cables, military infrastructure, and contested geopolitical chokepoints.
 * [KartaView](https://kartaview.org/map/)
 * [Leaflet](https://leafletjs.com)
 * [Liveuamap](https://liveuamap.com/)
